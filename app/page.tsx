@@ -186,7 +186,6 @@ export default function HomePage() {
               gap: 12,
               alignItems: "center",
             }}
-            onSubmit={(e) => e.preventDefault()}
           >
             <input
               type="email"
